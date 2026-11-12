@@ -1,6 +1,6 @@
 // Service worker: l'app si apre anche offline (i dati stanno in localStorage, non qui).
 // Se modifichi index.html, cambia il numero di versione qui sotto.
-const CACHE = 'spese-v1';
+const CACHE = 'spese-v2';
 const FILES = [
   './', './index.html', './manifest.webmanifest',
   './icon-192.png', './icon-512.png', './icon-maskable-512.png', './icon-180.png'
